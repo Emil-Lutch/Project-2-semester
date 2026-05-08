@@ -1,0 +1,7 @@
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\bin\Debug\ClassForProject.exe.config
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\bin\Debug\ClassForProject.exe
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\bin\Debug\ClassForProject.pdb
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\obj\Debug\ClassForProject.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\obj\Debug\ClassForProject.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\obj\Debug\ClassForProject.exe
+C:\Users\stud\Desktop\gaz\ClassForProject\ClassForProject\obj\Debug\ClassForProject.pdb
