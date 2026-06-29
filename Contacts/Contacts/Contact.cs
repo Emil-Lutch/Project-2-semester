@@ -2,7 +2,7 @@
 
 namespace Contacts
 {
-    internal class Contact
+    public class Contact
     {
         public string Name { get; set; }
         public string Surname { get; set; }

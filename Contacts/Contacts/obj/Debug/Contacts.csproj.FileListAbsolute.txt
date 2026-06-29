@@ -9,3 +9,4 @@ C:\Users\User\OneDrive\Desktop\C#\Contacts\Contacts\obj\Debug\Contacts.csproj.Co
 C:\Users\User\OneDrive\Desktop\C#\Contacts\Contacts\obj\Debug\Contacts.exe
 C:\Users\User\OneDrive\Desktop\C#\Contacts\Contacts\obj\Debug\Contacts.pdb
 C:\Users\User\OneDrive\Desktop\C#\Contacts\Contacts\obj\Debug\Contacts.exe.config
+C:\Users\User\OneDrive\Desktop\C#\Contacts\Contacts\obj\Debug\Contacts.ContactListForm.resources
